@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 4500,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 2020,
+      "quantity": 100,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "price": 12000,
+      "quantity": 10,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "casque",
+      "price": 25,
+      "quantity": 30,
+      "selected": false,
+      "available": true,
+      "id": 4
+    }
+  ]
+}
